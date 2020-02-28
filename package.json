@@ -1,0 +1,24 @@
+{
+  "name": "sample-nodejs-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arghyadeep-k/sample-nodejs-api.git"
+  },
+  "keywords": [
+    "nodejs",
+    "api",
+    "express"
+  ],
+  "author": "Arghyadeep",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arghyadeep-k/sample-nodejs-api/issues"
+  },
+  "homepage": "https://github.com/arghyadeep-k/sample-nodejs-api#readme"
+}
